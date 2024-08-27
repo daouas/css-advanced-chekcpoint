@@ -1,0 +1,112 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+
+}
+ul li a{
+    text-decoration: none;
+    margin: 0px 30px;
+}
+#oo{
+    height: 120px;
+    width: 300px;
+}
+.lead__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{color: #00b39b;
+ align-items: center;
+ font-size: 2.125rem;
+ margin: 1em 0;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    text-align: center;
+ }
+ .ee{ display: flex;
+    font-weight: 400;
+    font-family: Roboto, Arial, sans-serif;
+    color: #747474;
+    padding-top: 70px;
+    -webkit-font-smoothing: antialiased;
+} 
+
+
+
+#container{display: flex;
+justify-content: center
+;
+align-items: center;
+min-height: 400px;
+align-items: center;
+background-color: white;
+margin: 40px;}
+
+
+#container div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 370px;
+width: 335px;
+background-color: #00b39b;
+margin: 60px;
+color: #fff;
+text-shadow: none;
+font-size: 16px;
+font-weight: 400;
+text-align: center;}
+
+
+.olfa{display: flex;
+flex-direction: column;}
+.brands__logos{display: grid
+    ;
+grid-template-columns: 20% 20% 20% 20%;
+}
+.brands__logos img{height: 22px;width: 100px;}
+.brands__logos svg{height: 20px;width: 125px;}
+
+.stats {
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg, rgba(0, 204, 177, .01) 5%, rgba(61, 199, 223, .1));
+    padding: 1.875em 0 .625em;
+    overflow: hidden;
+    margin: 3.125rem auto 5.5rem;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+.ff{
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: 2.125rem;
+    color: #00b39b;}
+
+#ii{text-align: center;
+font-size: 20px;
+font-weight: 100;}
+.offices__slider{display: grid;
+grid-template-columns: 20% 20% 20% 20%;
+;}
+#ffr{ width: 312px; height: 280px; }
+
+
+
+  
+
+
+
+
+
+
+
